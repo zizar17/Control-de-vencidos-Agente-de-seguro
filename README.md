@@ -1,4 +1,3 @@
-# Control-de-vencidos-Agente-de-seguro
 # Sistema de Control y Administración de clientes vencidos.
 Desarrollado para un agente de seguros de la empresa Fénix S.A. Gestiona vencimientos de clientes con alertas, reportes y filtrado eficiente.
 # Tecnologías:
